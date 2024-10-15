@@ -5,6 +5,7 @@ import streamlit as st
 from babel.numbers import format_currency
 sns.set(style='dark')
 from PIL import Image
+streamlit run hello-world.py
 
 #Menampilkan logo
 st.header('Moli Hijabi')
