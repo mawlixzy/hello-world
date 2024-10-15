@@ -5,7 +5,8 @@ import streamlit as st
 from babel.numbers import format_currency
 sns.set(style='dark')
 from PIL import Image
-pip freeze>  matplotlib.pyplot
+pip freeze > requirements.txt
+
 
 
 #Menampilkan logo
