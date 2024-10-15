@@ -1,11 +1,11 @@
 import pandas as pd
+matplotlib
 import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 from babel.numbers import format_currency
 sns.set(style='dark')
 from PIL import Image
-pip freeze > requirements.txt
 
 
 
