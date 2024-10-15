@@ -5,6 +5,8 @@ import streamlit as st
 from babel.numbers import format_currency
 sns.set(style='dark')
 from PIL import Image
+pip freeze>  matplotlib.pyplot
+
 
 #Menampilkan logo
 st.header('Moli Hijabi')
