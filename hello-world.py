@@ -1,3 +1,10 @@
+import streamlit as st
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from babel.numbers import format_currency
+sns.set(style='dark')
+from PIL import Image
 
 #Menampilkan logo
 st.header('Moli Hijabi')
